@@ -5,7 +5,7 @@ This is a set of scripts used to analyse transcriptome data from ~500 mRNAseq sa
 for cichlid fishes from the East African Great lakes. The analysis leverages short-read mRNA-seq to assemble a super-annotation
 of gene isoforms that can be used to conduct differential splicing analysis at the isoform level.
 
-The manuscripts that used this overall pipeline are as follows:
+The manuscripts that used this pipeline are as follows:
 
 Singh et al 2025 parallel lakes analysis (in submisison)
 Duenser, Singh et al 2025 lake victoria ontogenetic analysis (in submisison)
