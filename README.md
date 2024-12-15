@@ -11,5 +11,5 @@ Singh et al 2025 parallel lakes analysis (in submisison);
 Duenser, Singh et al 2025 lake victoria ontogenetic analysis (in submisison);
 Singh et al in prep meta-analysis of all available transcriptomes;
 
-If you use these methods please cite Singh et al 2025 parallel lakes larval analysing (in submisison).
+If you use these methods please cite Singh et al 2025 parallel lakes paper (in submisison).
 If you have questions, email pooja.singh09@gmail.com with the email header: your RNAseq pipeline.
