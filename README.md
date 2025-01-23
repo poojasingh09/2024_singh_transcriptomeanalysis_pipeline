@@ -12,5 +12,5 @@ Duenser, Singh et al 2025 lake victoria ontogenetic analysis (in submisison);
 Singh et al red-yellow carotenoid based coloration
 Singh et al in prep meta-analysis of all available transcriptomes;
 
-If you use these methods please cite Singh et al 2025 parallel lakes paper (in submisison).
+If you use this code please cite Singh et al 2025 parallel lakes paper (in submisison).
 If you have questions, email pooja.singh09@gmail.com with the email header: your RNAseq pipeline.
