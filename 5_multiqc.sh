@@ -1,7 +1,6 @@
 #!bin/bash
 
 # samtool idxstats - .bam mapping statistics
-# March 2020
 ########### Change '-N' jobname, '-l h_vmem=' (storage), '-pe smp #' (number of cores)
 ########### samtools idxstats
 
