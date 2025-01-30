@@ -1,6 +1,5 @@
 #!bin/bash
 # fastqc on trimmed reads (this is a trial on sequential job sumission)
-# March 2020
 ########### Change '-N' jobname, '-l h_vmem=' (storage), '-pe smp #' (number of cores)
 ########### fastqc of trimmed reads
 
