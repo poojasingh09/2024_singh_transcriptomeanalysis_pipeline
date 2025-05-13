@@ -8,8 +8,8 @@ of gene isoforms that can be used to conduct differential splicing analysis at t
 The manuscripts that used this pipeline are as follows:
 
 Singh et al 2025 parallel lakes analysis (in submisison);
-Duenser, Singh et al 2025 lake victoria ontogenetic analysis (in submisison);
-Singh et al red-yellow carotenoid based coloration
+Duenser, Singh et al 2025 lake victoria ontogenetic analysis (in review ProcB);
+Singh et al red-yellow carotenoid based coloration (in revision MolEcol)
 Singh et al in prep meta-analysis of all available transcriptomes;
 
 If you use this code please cite Singh et al 2025 parallel lakes paper (in submisison).
