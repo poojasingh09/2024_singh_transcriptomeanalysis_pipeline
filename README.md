@@ -2,7 +2,7 @@
 # pooja.singh09@gmail.com
 
 This is a set of scripts used to analyse transcriptome data from hundreds of mRNAseq samples across multiple species and radiations
-for cichlid fishes from the East African Great lakes. The analysis leverages short-read mRNA-seq to assemble a super-annotation
+for cichlid fishes from the East African Great lakes. The analysis leverages short-read mRNA-seq to assemble and curate a super-annotation
 of gene isoforms that can be used to conduct differential splicing analysis at the isoform level.
 
 The manuscripts that used this pipeline are as follows:
